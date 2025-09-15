@@ -30,5 +30,5 @@ Users must obtain the original IEC TC 10 data separately from IEC if needed.
 - Gaussian Copula Model for Multivariate Data Simulation  
 
 ## ✍️ Author
-[Your Name or GitHub Username]
+Mohsen Kariman Majd
 
