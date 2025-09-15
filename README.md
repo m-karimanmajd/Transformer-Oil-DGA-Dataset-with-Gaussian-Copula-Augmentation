@@ -12,8 +12,6 @@ The augmented data were generated using the **Gaussian Copula approach** based o
 
 ## 📂 Repository Structure
 - `augmented_data/` : Synthetic data generated using the Gaussian Copula model  
-- `metadata/` : Additional information on variables and dataset structure  
-- `notebooks/` : (Optional) Code or notebooks used for data augmentation  
 
 ## 🚀 Potential Applications
 - Training and testing machine learning algorithms for transformer fault diagnosis  
